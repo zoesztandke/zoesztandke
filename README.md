@@ -1,3 +1,3 @@
-3rd year AI BSc at the university of edinburgh 
+4th year AI BSc at the university of edinburgh 
 
-interested in research in graph theory, bioinformatics, computational neuroscience
+interested in research in computational neuroscience, bioinformatics, and graph theory
