@@ -1,3 +1,3 @@
-4th year AI BSc at the university of edinburgh 
+4th year informatics MInf. at the university of edinburgh 
 
-interested in research in computational neuroscience, computational psychiatry, and cognitive science.
+interested in research in computational neuroscience, computational psychiatry, and cognitive science
